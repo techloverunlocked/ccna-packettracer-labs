@@ -1,1 +1,5 @@
+In this lab, I configured router hostnames, set up IP addresses for the routers, and assigned IP addresses and gateway addresses for both PCs.
+While configuring router IP addresses, I ensured that all connected interfaces were properly set up. The goal was to make sure Router 1, Router 2, and Router 3 could reach each other and knew the correct path for communication. For example, Router 1 was configured to reach Router 3 by forwarding traffic through interface G0/0 on Router 2 before reaching its final destination.
+There were a couple of moments when I forgot to switch to global configuration mode before entering commands, but once I caught the mistake, everything went smoothly.
+Overall, I enjoyed practicing with this lab—it was a great hands-on experience!
 
