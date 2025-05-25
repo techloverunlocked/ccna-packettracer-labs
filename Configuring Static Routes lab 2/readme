@@ -1,1 +1,10 @@
+In this lab, PC 1 and PC 2 couldn’t ping each other, so I had to troubleshoot the issue.
+I checked each router’s routing table and used show ip interface brief to verify IP addresses. 
+The problem was usually either an incorrect IP address assigned to an interface or a misconfigured IP route.
+To fix it, I used the no command to delete the incorrect route and rechecked the configuration. 
+I also updated the interfaces with the correct IP addresses.
+After making the necessary changes, I tested connectivity with a ping, and everything worked as expected.
+Overall, it was a fun challenge and a great way to practice what I’m learning!
+
+
 
